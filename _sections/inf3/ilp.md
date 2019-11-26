@@ -9,6 +9,7 @@ links:
     url: http://course.inf.ed.ac.uk/ilp
 ---
 
-- Mapbox:
-  - [Show a user's location](https://www.mapbox.com/android-docs/maps/examples/show-a-users-location/) (tutorial), [Showing device location](https://www.mapbox.com/android-docs/maps/overview/location-component) (location component docs)
-- [User management tutorial](http://appsdeveloperblog.com/firebase-authentication-example-kotlin/)
+- geojson:
+  - [Visualise a map](http://geojson.io) 
+  - [Visualise the course of a drone](http://homepages.inf.ed.ac.uk/stg/ilp)
+  - [Test your drone](https://www.learn.ed.ac.uk/bbcswebdav/pid-4305720-dt-content-rid-10939441_1/xid-10939441_1) (File download)
